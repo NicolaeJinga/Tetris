@@ -1,4 +1,4 @@
-# Tetris
+# Tetris (September 2016)
 Fully implemented classic Tetris game implemented in C++ and SFML. Rebuilt in August 2019 with SFML 2.5.1.
 
 # Project Description
